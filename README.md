@@ -1,0 +1,2 @@
+# ANN-Based-Hangul-Character-Recognition
+A tool for recognizing Hangul characters, the official alphabet used to write the Korean Language, that uses Artificial Neural Networks (ANN). Using MATLAB R2014a, the tool was implemented with ANN to be able to create networks for the training of data - which is an important process for the recognition of Hangul characters. It also discusses how ANN tool is used and how it is being used in image recognition.
